@@ -145,7 +145,8 @@ body{
     font-weight: 300;
 }
 .attribution a { 
-    color:#2ECC71;
+    color:black;
+    font-weight: 500;
 }
 
 /*Media queries*/
