@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-ping-coming-soon-page-master/)
+[My Solution](https://dovlym.github.io/FEM-ping-coming-soon-page-master/)
 
 
 ## My process
